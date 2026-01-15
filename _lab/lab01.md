@@ -39,7 +39,7 @@ We will define the grocery item attributes as follows:
 * `name` - `str` that represents the name of a grocery item. <b>Your program should ensure that this field will be stored in all upper-case characters</b>.
 * `price` - `float` that represents the price of the item.
 
-You will write a constructor that allows the user to construct a grocery item object by passing in values for all of the fields. <b>Your constructor should set these attributes with the value `None` by default</b>.
+You will write a constructor that allows the user to construct a grocery item object by passing in values for all of the fields. <b>Your constructor should set these attributes with the value `None` by default if no parameter value for the attribute is passed in when constructing the Item (for example, it is possible to construct an `Item` object with all its attributes being assigned with `None` using `Item()`)</b>.
 
 * `__init__(self, upc, category, name, price)`
 
