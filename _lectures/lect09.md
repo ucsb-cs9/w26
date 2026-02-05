@@ -5,7 +5,7 @@ ready: true
 lecture_date: 2026-02-03 15:30:00.00-7:00
 ---
 
-Recorded Lecture: Unfortunately, there seems to be an issue with the recorded video file ... I'll see if I can figure out a way to recover it, but there may not be a recorded video for today's lecture.
+Recorded Lecture: [2_3_26](https://drive.google.com/file/d/1aE6kEfLErgCkhgMMn_0b8M7jkcH8-rCA/view?usp=drive_link)
 
 # Stacks
 
