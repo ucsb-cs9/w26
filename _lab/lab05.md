@@ -110,7 +110,7 @@ mc.insertMovie(m1)
 mc.insertMovie(m2)
 mc.insertMovie(m3)
 mc.insertMovie(m4)
-print(bc.getAllMoviesInCollection())
+print(mc.getAllMoviesInCollection())
 ```
 
 <b> Output: </b>
