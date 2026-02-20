@@ -5,7 +5,11 @@ ready: true
 lecture_date: 2026-02-19 15:30:00.00-7:00
 ---
 
-Recorded Lecture: [2_19_26](https://drive.google.com/file/d/1oXbjld56q6izTJlYXAPiXv91dXVssTPz/view?usp=drive_link)
+Previously Recorded Lecture: [2_20_25](https://drive.google.com/file/d/1cWTTZUQFPUj0fGN_j-b3xurU3pzDn1dD/view?usp=drive_link)
+* **Note**: There seemed to be some technical difficulties with today's recorded lecture, so I am linking last winter's recorded lecture on QuickSort / Tree terminology.
+    * The reminders for Lab06 and h06 due dates for this quarter are:
+        * Lab06 due Sunday 2/22 @ 11:59PM PST
+        * h06 due Tuesday 2/24 @ 3:30PM PST
 
 # Quicksort
 * Another divide-and-conquer algorithm
