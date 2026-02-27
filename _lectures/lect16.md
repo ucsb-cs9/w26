@@ -174,16 +174,4 @@ def test_postorder():
     assert postorder(root) == "DBEFCA"
 ```
 
-# Binary Search Tree (BST)
-
-* Recall that a binary tree is a tree structure where a node may have at most two children
-* **Binary Search Trees (BST)** are binary trees that have the following property:
-    * Values that are less than the parent are found in the left subtree
-    * Values that are greater than the parent are found in the right subtree
-    * This is known as the **BST property**
-* Binary Search Trees are also one way to implement a **Map** Abstract Data Type
-    * A Map ADT maps keys to corresponding values
-    * Think of keys defining where in the BST structure a node gets inserted
-    * And each node has a corresponding value field
-    * Similar to how Python Dictionaries work on a high-level (but the underlying implementation between a Python Dictionary and BST are different (each with pros / cons))
     
